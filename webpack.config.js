@@ -8,7 +8,7 @@ module.exports = {
     path: path.resolve(__dirname, "public")
   },
   devServer: {
-    port: 8888
+    port: 3301
   },
   plugins: [
     new HTMLPlugin({
